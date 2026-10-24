@@ -1,4 +1,4 @@
-# Vansh Mittal — Portfolio
+# Vansh Mittal Portfolio
 
 Personal portfolio showcasing my projects, technical skills, experience, and achievements in AI/ML and software development.
 
